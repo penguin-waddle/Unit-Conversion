@@ -1,7 +1,16 @@
 # Unit Conversion App - Temperature Converter
 
 ## Overview
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/Unit-Conversion/assets/123434744/5d7a4b27-6f90-45bd-93fd-2df344676e8d" alt="Unit Conversion App Demo" width="300" />
+    </td>
+    <td>
 In the first individual challenge of the '100 Days of SwiftUI' course, I embarked on creating an app entirely from scratch, applying the knowledge gained from the initial project, WeSplit. The challenge involved building a unit conversion app, and I chose to focus on temperature conversion. This app allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Unit Selection**: Users can select their preferred input and output units (Celsius, Fahrenheit, or Kelvin) via segmented controls.
@@ -23,3 +32,5 @@ In the first individual challenge of the '100 Days of SwiftUI' course, I embarke
   Note: This app was a challenge project from the ["100 Days of SwiftUI" course](https://www.hackingwithswift.com/100/swiftui) and was designed and implemented by me as part of my learning journey in iOS development.
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
