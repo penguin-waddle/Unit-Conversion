@@ -8,6 +8,8 @@
     </td>
     <td>
 In the first individual challenge of the '100 Days of SwiftUI' course, I embarked on creating an app entirely from scratch, applying the knowledge gained from the initial project, WeSplit. The challenge involved building a unit conversion app, and I chose to focus on temperature conversion. This app allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+  <br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
     </td>
   </tr>
 </table>
